@@ -3,7 +3,7 @@ I'm Renee Bethapudy!
 Feel free to explore my projects or reach out to collaborate!
 GSSoC contributions @ https://github.com/ren12a2
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RMB1907&layout=compact&theme=light)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RMB1907&theme=vue&card_width=500)
 
 
 <!--
