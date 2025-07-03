@@ -4,9 +4,7 @@ Feel free to explore my projects or reach out to collaborate!
 GSSoC contributions @ https://github.com/ren12a2
 
 ## GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RMB1907&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RMB1907&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RMB1907&layout=compact&theme=light)
 
 
 
